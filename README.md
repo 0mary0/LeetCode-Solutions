@@ -4,12 +4,14 @@ Welcome to my LeetCode Solutions repository! 🚀 This repo contains my solution
 
 📂 Repository Structure
 
+```
 LeetCode-Solutions/
 │── Easy/
-│ ├── Two_Sum.py
+│   ├── Two_Sum.py
 │── Medium/
 │── Hard/
 │── README.md
+```
 
 🔹 How to Use
 
