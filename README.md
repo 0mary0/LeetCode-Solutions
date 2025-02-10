@@ -1,10 +1,42 @@
 # LeetCode-Solutions
 
-LeetCode problem solutions
+Welcome to my LeetCode Solutions repository! 🚀 This repo contains my solutions to various LeetCode problems, categorized by difficulty.
 
-    1. Two Sums:
-    There were two ways to go about this question, one was to check each two numbers and their sum and compare it to the target which leads to a O(n^2),
-    the other way was to use hashmap and check if each number is in the hashmap of the numbers needed to reach the target for the other members of the list which leads to O(n).
-    So since the big-O for the second way is better, I decided to go with that one.
+📂 Repository Structure
 
-    2.
+LeetCode-Solutions/
+│── Easy/
+│ ├── Two_Sum.py
+│── Medium/
+│── Hard/
+│── README.md
+
+🔹 How to Use
+
+Each problem is placed in its respective difficulty folder.
+
+Solutions are written in Python with clear explanations.
+
+📝 Solved Problems
+
+✅ Easy
+
+Two Sum
+
+🚀 Medium
+
+(More to come...)
+
+🔥 Hard
+
+(More to come...)
+
+🎯 Goals
+
+Solve at least 5 problems per week.
+
+Focus on Data Structures and Algorithms for better problem-solving skills.
+
+🤝 Contributing
+
+Feel free to suggest improvements or alternative solutions!
