@@ -9,6 +9,7 @@ LeetCode-Solutions/
 │   ├── Two_Sum.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
+│   ├── Longest Substring Without Repeating Characters.py
 │── Hard/
 │── README.md
 ```
