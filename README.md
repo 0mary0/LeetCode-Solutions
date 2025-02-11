@@ -8,15 +8,7 @@ LeetCode-Solutions/
 │── Easy/
 │   ├── Two_Sum.py
 │── Medium/
-│── Hard/
-│── README.md
-```
-
-```
-LeetCode-Solutions/
-│── Easy/
-│   ├── Two_Sum.py
-│── Medium/
+│   ├── Add_Two_Numbers.py
 │── Hard/
 │── README.md
 ```
