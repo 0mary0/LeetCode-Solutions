@@ -26,7 +26,13 @@ Solutions are written in Python with clear explanations.
 
 Two Sum
 
+(More to come...)
+
 🚀 Medium
+
+Add Two Numbers
+
+Longest Substring Without Repeating Characters
 
 (More to come...)
 
