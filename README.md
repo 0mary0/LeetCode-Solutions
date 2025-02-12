@@ -9,6 +9,7 @@ LeetCode-Solutions/
 │   ├── Two_Sum.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
+│   ├── Longest Substring Without Repeating Characters.py
 │── Hard/
 │── README.md
 ```
@@ -25,7 +26,13 @@ Solutions are written in Python with clear explanations.
 
 Two Sum
 
+(More to come...)
+
 🚀 Medium
+
+Add Two Numbers
+
+Longest Substring Without Repeating Characters
 
 (More to come...)
 
