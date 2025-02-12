@@ -11,6 +11,7 @@ LeetCode-Solutions/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
 │── Hard/
+│   ├── Median of Two Sorted Arrays
 │── README.md
 ```
 
@@ -37,6 +38,8 @@ Longest Substring Without Repeating Characters
 (More to come...)
 
 🔥 Hard
+
+Median of Two Sorted Arrays
 
 (More to come...)
 
