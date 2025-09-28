@@ -7,6 +7,7 @@ Welcome to my LeetCode Solutions repository! 🚀 This repo contains my solution
 LeetCode-Solutions/
 │── Easy/
 │   ├── Two_Sum.py
+│   ├── Palindrome_Number.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
@@ -26,6 +27,8 @@ Solutions are written in Python with clear explanations.
 ✅ Easy
 
 Two Sum
+
+Palindrome Number
 
 (More to come...)
 
