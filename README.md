@@ -50,12 +50,6 @@ Median of Two Sorted Arrays
 
 (More to come...)
 
-🎯 Goals
-
-Solve at least 5 problems per week.
-
-Focus on Data Structures and Algorithms for better problem-solving skills.
-
 🤝 Contributing
 
 Feel free to suggest improvements or alternative solutions!
