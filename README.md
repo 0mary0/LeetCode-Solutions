@@ -3,11 +3,13 @@
 Welcome to my LeetCode Solutions repository! 🚀 This repo contains my solutions to various LeetCode problems, categorized by difficulty.
 
 📂 Repository Structure
+
 ```
 LeetCode-Solutions/
 │── Easy/
 │   ├── Two_Sum.py
 │   ├── Palindrome_Number.py
+│   ├── Roman_to_Integer.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
