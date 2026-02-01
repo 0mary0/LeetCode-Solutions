@@ -11,6 +11,7 @@ LeetCode-Solutions/
 │   ├── Palindrome_Number.py
 │   ├── Roman_to_Integer.py
 │   ├── Longest_Common_Prefix.py
+│   ├── Valid_Paranthesis.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
@@ -36,6 +37,8 @@ Palindrome Number
 Roman to Integer
 
 Longest Common Prefix
+
+Valid Paranthesis
 
 (More to come...)
 
