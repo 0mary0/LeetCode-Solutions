@@ -13,6 +13,7 @@ LeetCode-Solutions/
 │   ├── Longest_Common_Prefix.py
 │   ├── Valid_Paranthesis.py
 │   ├── Merge_Two_Sorted_Lists.py
+│   ├── Remove_Duplicates_from_Sorted_Array.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
@@ -40,6 +41,8 @@ Roman to Integer
 Longest Common Prefix
 
 Valid Paranthesis
+
+Remove Duplicates from Sorted Array
 
 (More to come...)
 
