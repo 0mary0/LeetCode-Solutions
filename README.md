@@ -14,6 +14,7 @@ LeetCode-Solutions/
 │   ├── Valid_Paranthesis.py
 │   ├── Merge_Two_Sorted_Lists.py
 │   ├── Remove_Duplicates_from_Sorted_Array.py
+│   ├── Remove_Element.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
@@ -26,7 +27,7 @@ LeetCode-Solutions/
 
 Each problem is placed in its respective difficulty folder.
 
-Solutions are written in Python with clear explanations.
+Solutions are written in Python.
 
 📝 Solved Problems
 
@@ -43,6 +44,8 @@ Longest Common Prefix
 Valid Paranthesis
 
 Remove Duplicates from Sorted Array
+
+Remove Element
 
 (More to come...)
 
