@@ -15,6 +15,8 @@ LeetCode-Solutions/
 │   ├── Merge_Two_Sorted_Lists.py
 │   ├── Remove_Duplicates_from_Sorted_Array.py
 │   ├── Remove_Element.py
+│   ├── Find_Index_of_First_Occurence.py
+│   ├── Search_Insert_Position
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
@@ -46,6 +48,10 @@ Valid Paranthesis
 Remove Duplicates from Sorted Array
 
 Remove Element
+
+Find Index of First Occurence
+
+Search Insert Position
 
 (More to come...)
 
