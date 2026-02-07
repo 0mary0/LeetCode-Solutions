@@ -16,7 +16,9 @@ LeetCode-Solutions/
 │   ├── Remove_Duplicates_from_Sorted_Array.py
 │   ├── Remove_Element.py
 │   ├── Find_Index_of_First_Occurence.py
-│   ├── Search_Insert_Position
+│   ├── Search_Insert_Position.py
+│   ├── Length_of_Last_Word.py
+│   ├── Plus_One.py
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
@@ -52,6 +54,10 @@ Remove Element
 Find Index of First Occurence
 
 Search Insert Position
+
+Length of Last Word
+
+Plus One
 
 (More to come...)
 
