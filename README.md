@@ -19,6 +19,8 @@ LeetCode-Solutions/
 │   ├── Search_Insert_Position.py
 │   ├── Length_of_Last_Word.py
 │   ├── Plus_One.py
+│   ├── Add_Binary.py
+│   ├── Sqrt(x).py
 │── Medium/
 │   ├── Add_Two_Numbers.py
 │   ├── Longest Substring Without Repeating Characters.py
@@ -58,6 +60,10 @@ Search Insert Position
 Length of Last Word
 
 Plus One
+
+Add Binary
+
+Sqrt(x)
 
 (More to come...)
 
